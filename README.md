@@ -15,9 +15,9 @@ This project demonstrates the concept of a content-based recommendation system, 
 - Tkinter
 
 ## Project Structure
-movie-recommendation-system│
-*recommendation.py
-*README.md
+movie-recommendation-system|
+--recommendation.py
+--README.md
 
 ## Description
 The user selects a category such as Movie, Book, or Music and enters a name. The system searches its dataset and provides related recommendations if the item is found.
